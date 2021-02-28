@@ -1,0 +1,29 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "7c72f2b556778be7b7500e881af9510d46e5374127a9fcbde305b68f8b99a1c1"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.8"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "questrade-api": {
+            "hashes": [
+                "sha256:aeca5c459c42b48923684bbd42c3738aad3023728d7b793a598de8890802b109",
+                "sha256:c73d3b0a12b50c61572a09fa2e1ab00d5d5a99fd94af3babd49e97da49913969"
+            ],
+            "index": "pypi",
+            "version": "==1.0.3"
+        }
+    },
+    "develop": {}
+}
